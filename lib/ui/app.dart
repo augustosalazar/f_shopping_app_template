@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         body: HomePage(),
-        //body: ProductList(),
       ),
     );
   }

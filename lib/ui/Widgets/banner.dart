@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 class CustomBanner extends StatelessWidget {
-  CustomBanner(this.bannerHeight, {Key? key}) : super(key: key);
-  double bannerHeight;
+  const CustomBanner(this.bannerHeight, {Key? key}) : super(key: key);
+  final double bannerHeight;
 
   @override
   Widget build(BuildContext context) {

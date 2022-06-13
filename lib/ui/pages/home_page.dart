@@ -35,14 +35,14 @@ class HomePage extends StatelessWidget {
             letterSpacing: 2.0,
             fontWeight: FontWeight.w300),
       ),
-      CartTotal()
+      const CartTotal()
     ]));
   }
 
   Widget buildProfileImage() {
     return Stack(
       alignment: Alignment.bottomCenter,
-      children: [
+      children: const [
         CustomBanner(200),
         CircleAvatar(
           backgroundImage:

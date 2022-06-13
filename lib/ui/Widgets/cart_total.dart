@@ -5,8 +5,8 @@ class CartTotal extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Expanded(
-      child: const Center(
+    return const Expanded(
+      child: Center(
         child: Text('Total: 400 usd',
             style: TextStyle(
                 fontSize: 25.0,

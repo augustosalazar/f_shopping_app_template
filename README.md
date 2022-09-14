@@ -1,4 +1,6 @@
 # f_shopping_app
 
 
-![shopping1](https://user-images.githubusercontent.com/4458129/156162729-56e3ef5f-d8f7-4088-a6e6-3ed9999842f7.gif)
+El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
+
+![shoppingApp](https://user-images.githubusercontent.com/4458129/173839525-218900ed-9bcd-4f6f-9158-0b02dd9d7707.gif)
